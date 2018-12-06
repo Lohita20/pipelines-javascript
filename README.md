@@ -1,5 +1,7 @@
 # Sample NodeJS application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/lpujari0962/SamplePipelines/_apis/build/status/Lohita20.pipelines-javascript)](https://dev.azure.com/lpujari0962/SamplePipelines/_build/latest?definitionId=22)
+
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
